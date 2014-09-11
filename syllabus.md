@@ -27,4 +27,4 @@ Chacon, S (2010). [ProGit.](http://git-scm.com/book)
 
 Additional materials. Supplemental YouTube videos and online tutorials will be assigned.
  
-Software. You will need to install [R](http://cran.cnr.berkeley.edu/)and Rstudio
+Software. You will need to install [R](http://cran.cnr.berkeley.edu/) and [Rstudio](http://www.rstudio.com/products/rstudio/download/)
