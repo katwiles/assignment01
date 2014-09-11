@@ -1,4 +1,4 @@
-# MICRBIOL 612:  Microbial Informatics
+## MICRBIOL 612:  Microbial Informatics
 
 Instructor:  Patrick D. Schloss, PhD
 Office hours:  Mondays (3:00-5:00 PM) in 1520A MSRB I
@@ -23,8 +23,8 @@ Dalgaard, P (2008).  Introductory Statistics with R, 2nd edition.
 
 Matloff, N  (2011).  The Art of R Programming.
 
-Chacon, S (2010). ProGit.
+Chacon, S (2010). [ProGit.](http://git-scm.com/book)
 
 Additional materials. Supplemental YouTube videos and online tutorials will be assigned.
  
-Software. You will need to install R and Rstudio
+Software. You will need to install [R](http://cran.cnr.berkeley.edu/)and Rstudio
