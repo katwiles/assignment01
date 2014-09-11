@@ -21,7 +21,7 @@ Location: 5623 Med Sci II
 
 * Dalgaard, P (2008).  Introductory Statistics with R, 2nd edition.
 
-Matloff, N  (2011).  The Art of R Programming.
+* Matloff, N  (2011).  The Art of R Programming.
 
 Chacon, S (2010). [ProGit.](http://git-scm.com/book)
 
