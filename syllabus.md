@@ -27,4 +27,4 @@ Location: 5623 Med Sci II
 
 **Additional materials.** Supplemental YouTube videos and online tutorials will be assigned.
  
-Software. You will need to install [R](http://cran.cnr.berkeley.edu/) and [Rstudio](http://www.rstudio.com/products/rstudio/download/)
+**Software.** You will need to install [R](http://cran.cnr.berkeley.edu/) and [Rstudio](http://www.rstudio.com/products/rstudio/download/)
