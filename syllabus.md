@@ -17,7 +17,7 @@ Location: 5623 Med Sci II
 
 **Text books.**  Students should obtain the following books:
 
-Buffalo, V (2014). Bioinformatics Data Skills.
+* Buffalo, V (2014). Bioinformatics Data Skills.
 
 Dalgaard, P (2008).  Introductory Statistics with R, 2nd edition.
 
