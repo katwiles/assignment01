@@ -23,7 +23,7 @@ Location: 5623 Med Sci II
 
 * Matloff, N  (2011).  The Art of R Programming.
 
-Chacon, S (2010). [ProGit.](http://git-scm.com/book)
+* Chacon, S (2010). [ProGit.](http://git-scm.com/book)
 
 Additional materials. Supplemental YouTube videos and online tutorials will be assigned.
  
