@@ -7,6 +7,7 @@
 **Lectures:**  Tuesdays and Thursdays (10:00-11:00 AM)
 
 **Laboratory:**  Fridays (1:30-3:30 PM)
+
 **Location:** 5623 Med Sci II
 
 
